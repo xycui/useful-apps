@@ -2,4 +2,4 @@
 
 |App name|Description|Link|
 |----|----|----|
-|Wechat|Communication 
+|Wechat|Communication tool|[official](https://pc.weixin.qq.com/?lang=zh)|
