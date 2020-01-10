@@ -5,3 +5,4 @@
 |adb|||
 |Android Studio|IDE||
 |scrcpy|||
+|Appium|||
