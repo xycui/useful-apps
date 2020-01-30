@@ -1,5 +1,6 @@
 # Apps for Business
 
+# Cross platform
 |App name|Description|Link|
 |----|----|----|
 |Slack|Instant messaging platform|[official](https://slack.com/)|

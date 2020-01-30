@@ -8,6 +8,7 @@
 |Cmake|||
 |Bazel|||
 |Git|Version control||
+|Powershell|||
 
 # Windows Apps
 |Name|Description|Link|
@@ -17,3 +18,8 @@
 
 
 # Mac Apps
+|Name|Description|Link|
+|----|----|----|
+|iTerm|terminal||
+|Termius|ssh client||
+|Microsoft Remote Desktop|||
