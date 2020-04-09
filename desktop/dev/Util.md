@@ -12,6 +12,7 @@
 |innounp|||
 |lessmsi|||
 |protobuf|||
+|swagger|||
 
 # Windows Apps
 |Name|Description|Link|

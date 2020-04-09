@@ -7,3 +7,6 @@
 |Java|||
 |Python|||
 |NodeJs|||
+|npm|||
+|nuget|||
+

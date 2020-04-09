@@ -11,6 +11,8 @@
 |cpu-z|||
 |gpu-z|||
 |crystaldiskmark|||
+|speedfan|||
+|mousejiggler|||
 
 # Mac Apps
 |Name|Description|Link|

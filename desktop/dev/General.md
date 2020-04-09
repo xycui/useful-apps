@@ -5,6 +5,8 @@
 |---|----|---|
 |Visual Studio|IDE||
 |Visual Studio Code|Editor||
+|notepad++|Editor||
+|Sublime text|Editor||
 |Cmake|||
 |Bazel|||
 |Git|Version control||

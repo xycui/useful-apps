@@ -5,6 +5,8 @@
 |----|----|---|
 |Tor browser|||
 |Chrome|||
+|Chromium|||
+|FileZilla||https://filezilla-project.org/|
 
 # Windows Apps
 
